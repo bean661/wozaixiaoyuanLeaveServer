@@ -24,7 +24,7 @@
 
 浏览器访问 ip:8181 返回信息即正常
 
-**2、**wzxyQianDuan.zip 在本地（windows，要有node环境）解压
+**2、** wzxyQianDuan.zip 在本地（windows，要有node环境）解压
 
 修改src/App.vue 70行 127.0.0.1改为服务器的公网ip 保存
 
@@ -42,7 +42,7 @@ npm run built
 
 具体启动教程建议参考这个[(5条消息) Docker部署vue项目并运行_小小小果子的博客-CSDN博客_docker运行vue](https://blog.csdn.net/weixin_46244732/article/details/118699753?spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-16-118699753-blog-120887454.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-16-118699753-blog-120887454.topnsimilarv1&utm_relevant_index=19)
 
-**3.**下载rule.js
+**3、** 下载rule.js
 
 修改192行 logo的值，小程序首页可以抓到你的学校的logo url ，保存 上传到服务器
 
