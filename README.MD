@@ -49,9 +49,11 @@ npm run build
 服务器安装anyproxy，fs
 
 #安装anyproxy  官网 http://anyproxy.io/cn/#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B
+
 `npm install -g anyproxy`
 
 #安装fs
+
 `npm install fs`
 
 #启动anyproxy
