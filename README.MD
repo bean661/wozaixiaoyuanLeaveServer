@@ -16,7 +16,7 @@
 
 服务器放开端口：8001 8002  8181 8182 
 
-服务器安装nodejs java docker环境
+服务器安装nodejs java(jdk1.8) docker环境
 
 **1、**`wzxy.jar`包上传到服务器 启动
 
@@ -35,10 +35,10 @@
 npm install 
 
 # 打包
-npm run built
+npm run build
 ```
 
-会生成dist文件及传到服务器
+会生成dist文件夹，上传到服务器
 
 具体启动教程建议参考这个[(5条消息) Docker部署vue项目并运行_小小小果子的博客-CSDN博客_docker运行vue](https://blog.csdn.net/weixin_46244732/article/details/118699753?spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-16-118699753-blog-120887454.topnsimilarv1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~OPENSEARCH~Rate-16-118699753-blog-120887454.topnsimilarv1&utm_relevant_index=19)
 
