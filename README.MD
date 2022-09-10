@@ -2,6 +2,16 @@
 
 群里朋友说有人拿这个请假赚钱，那我只好写一个开源的了。。。 
 
+#### 配置要求：
+
+有公网IP服务器一台
+
+ios设备：有小火箭
+
+安卓（root）：小火箭
+
+安卓（非root）：vmos一类的虚拟机上
+
 **仅供学习参考，不要用于非法用途**
 
 #### 文件说明：
@@ -77,6 +87,12 @@ npm run build
 #### 测试：
 
 先在前端页面提交信息，小火箭连接服务器（代理），返回小程序查看
+
+#### 致谢：
+
+[niusme/buzaixiaoyuan: 我在校园，假条模拟。基于安卓+root+xposed或者vmos虚拟机，不适用与ios (github.com)](https://github.com/niusme/buzaixiaoyuan)
+
+[Milky01/wozaixiaoyuan: 圈X我在校园自动打卡，伪装假条 (github.com)](https://github.com/Milky01/wozaixiaoyuan)
 
 **仅供交流学习，请在下载后24小时内删除。一切责任由使用者自负，与作者无关。**
 
